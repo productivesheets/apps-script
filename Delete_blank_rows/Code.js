@@ -1,4 +1,4 @@
-//Code Developed by Manideep Chaudhary from http://productivesheets.com
+//Code Developed by Manideep Chaudhary from https://productivesheets.com
 function removeEmptyRows() {
   const sheet = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
   const activeRange = sheet.getActiveRange().getValues();
